@@ -1,3 +1,5 @@
+// Thesis project
+// author @larzkicksu
 var csv = require('csv-parser');
 var fs = require('fs');
 var _ = require('lodash');
@@ -31,7 +33,6 @@ var codes = [
   7999,
   8999
 ];
-
 
 var countyFiles = [
   '1988_ALL_Washington_State_Counties.csv',
